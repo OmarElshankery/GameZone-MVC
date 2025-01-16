@@ -1,6 +1,11 @@
+wwwroot\assets\images\games\086cefe4-3515-46a8-b9f0-96b9b2863abd.jpg
+wwwroot\assets\images\games\24146e8c-ace4-440d-9f4c-9b09456ca7bc.jpg
+wwwroot\assets\images\games\4bd750ad-8e99-42e7-b25a-9c58e52b62f3.jpg
 wwwroot\assets\images\games\67a14222-7e80-4623-ae25-ea6c43ae73f6.jpg
 wwwroot\assets\images\games\6e3d5203-9667-4f37-8a5e-781ccd6e42ed.jpg
 wwwroot\assets\images\games\72bb109b-bf21-46ec-b6e3-351382bf6344.png
+wwwroot\assets\images\games\74603d19-3e2d-4cb7-be9c-6bffc576c97b.jpg
+wwwroot\assets\images\games\e9e1bc87-1098-42a2-97bb-72d4953009e6.jpg
 wwwroot\css\bootstrap.min.css
 wwwroot\css\site.css
 wwwroot\favicon.ico

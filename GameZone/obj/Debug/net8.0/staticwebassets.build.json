@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ILCgT8Mmd6EDsp4VD8T2nvxjUT4KvAUhWC1hMMaPiRk=",
+  "Hash": "Y5XuEEfa3nlIIhKMha2lWvR8pmzsSeGa4x3svenrF4Y=",
   "Source": "GameZone",
   "BasePath": "_content/GameZone",
   "Mode": "Default",
@@ -57,6 +57,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\GameZone\\GameZone\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameZone.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\086cefe4-3515-46a8-b9f0-96b9b2863abd.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GameZone\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/086cefe4-3515-46a8-b9f0-96b9b2863abd#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o607qzea51",
+      "Integrity": "sCKeL6SE0H1gqXf1HSeci0UGE4jjYQx2POFS5b9z0ck=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\086cefe4-3515-46a8-b9f0-96b9b2863abd.jpg"
+    },
+    {
+      "Identity": "D:\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\24146e8c-ace4-440d-9f4c-9b09456ca7bc.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GameZone\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/24146e8c-ace4-440d-9f4c-9b09456ca7bc#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o607qzea51",
+      "Integrity": "sCKeL6SE0H1gqXf1HSeci0UGE4jjYQx2POFS5b9z0ck=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\24146e8c-ace4-440d-9f4c-9b09456ca7bc.jpg"
+    },
+    {
+      "Identity": "D:\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\4bd750ad-8e99-42e7-b25a-9c58e52b62f3.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GameZone\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/4bd750ad-8e99-42e7-b25a-9c58e52b62f3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h9uh6f3py7",
+      "Integrity": "dYW1Qrzj4m0bJXKSDEDVau+s675sKMj9t94jyfmXFB8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\4bd750ad-8e99-42e7-b25a-9c58e52b62f3.jpg"
     },
     {
       "Identity": "D:\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\67a14222-7e80-4623-ae25-ea6c43ae73f6.jpg",
@@ -120,6 +183,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\games\\72bb109b-bf21-46ec-b6e3-351382bf6344.png"
+    },
+    {
+      "Identity": "D:\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\74603d19-3e2d-4cb7-be9c-6bffc576c97b.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GameZone\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/74603d19-3e2d-4cb7-be9c-6bffc576c97b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hxg4ze3o4f",
+      "Integrity": "tVl86vFaL7QQJjcisi1G/KPSqJmTHxjlaisuOtCPDso=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\74603d19-3e2d-4cb7-be9c-6bffc576c97b.jpg"
+    },
+    {
+      "Identity": "D:\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\e9e1bc87-1098-42a2-97bb-72d4953009e6.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GameZone\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/e9e1bc87-1098-42a2-97bb-72d4953009e6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v7ys6y7t17",
+      "Integrity": "xSUU8SKhEWLFXwuwpkMxF+lq7VTRvLHuQRN0AB4BVS0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\e9e1bc87-1098-42a2-97bb-72d4953009e6.jpg"
     },
     {
       "Identity": "D:\\GameZone\\GameZone\\wwwroot\\css\\bootstrap.min.css",
@@ -1657,6 +1762,252 @@
   ],
   "Endpoints": [
     {
+      "Route": "assets/images/games/086cefe4-3515-46a8-b9f0-96b9b2863abd.jpg",
+      "AssetFile": "D:\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\086cefe4-3515-46a8-b9f0-96b9b2863abd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "364521"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sCKeL6SE0H1gqXf1HSeci0UGE4jjYQx2POFS5b9z0ck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:51:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sCKeL6SE0H1gqXf1HSeci0UGE4jjYQx2POFS5b9z0ck="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/086cefe4-3515-46a8-b9f0-96b9b2863abd.o607qzea51.jpg",
+      "AssetFile": "D:\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\086cefe4-3515-46a8-b9f0-96b9b2863abd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "364521"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sCKeL6SE0H1gqXf1HSeci0UGE4jjYQx2POFS5b9z0ck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:51:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o607qzea51"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/086cefe4-3515-46a8-b9f0-96b9b2863abd.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sCKeL6SE0H1gqXf1HSeci0UGE4jjYQx2POFS5b9z0ck="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/24146e8c-ace4-440d-9f4c-9b09456ca7bc.jpg",
+      "AssetFile": "D:\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\24146e8c-ace4-440d-9f4c-9b09456ca7bc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "364521"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sCKeL6SE0H1gqXf1HSeci0UGE4jjYQx2POFS5b9z0ck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sCKeL6SE0H1gqXf1HSeci0UGE4jjYQx2POFS5b9z0ck="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/24146e8c-ace4-440d-9f4c-9b09456ca7bc.o607qzea51.jpg",
+      "AssetFile": "D:\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\24146e8c-ace4-440d-9f4c-9b09456ca7bc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "364521"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sCKeL6SE0H1gqXf1HSeci0UGE4jjYQx2POFS5b9z0ck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o607qzea51"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/24146e8c-ace4-440d-9f4c-9b09456ca7bc.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sCKeL6SE0H1gqXf1HSeci0UGE4jjYQx2POFS5b9z0ck="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/4bd750ad-8e99-42e7-b25a-9c58e52b62f3.h9uh6f3py7.jpg",
+      "AssetFile": "D:\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\4bd750ad-8e99-42e7-b25a-9c58e52b62f3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196475"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dYW1Qrzj4m0bJXKSDEDVau+s675sKMj9t94jyfmXFB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 08:19:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h9uh6f3py7"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/4bd750ad-8e99-42e7-b25a-9c58e52b62f3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dYW1Qrzj4m0bJXKSDEDVau+s675sKMj9t94jyfmXFB8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/4bd750ad-8e99-42e7-b25a-9c58e52b62f3.jpg",
+      "AssetFile": "D:\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\4bd750ad-8e99-42e7-b25a-9c58e52b62f3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196475"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dYW1Qrzj4m0bJXKSDEDVau+s675sKMj9t94jyfmXFB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 08:19:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dYW1Qrzj4m0bJXKSDEDVau+s675sKMj9t94jyfmXFB8="
+        }
+      ]
+    },
+    {
       "Route": "assets/images/games/67a14222-7e80-4623-ae25-ea6c43ae73f6.hxg4ze3o4f.jpg",
       "AssetFile": "D:\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\67a14222-7e80-4623-ae25-ea6c43ae73f6.jpg",
       "Selectors": [],
@@ -1899,6 +2250,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-hChHHJr83qUVDWLshIZw29IjpNRhq26K92om4O7HYGE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/74603d19-3e2d-4cb7-be9c-6bffc576c97b.hxg4ze3o4f.jpg",
+      "AssetFile": "D:\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\74603d19-3e2d-4cb7-be9c-6bffc576c97b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "237523"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tVl86vFaL7QQJjcisi1G/KPSqJmTHxjlaisuOtCPDso=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:44:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hxg4ze3o4f"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/74603d19-3e2d-4cb7-be9c-6bffc576c97b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tVl86vFaL7QQJjcisi1G/KPSqJmTHxjlaisuOtCPDso="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/74603d19-3e2d-4cb7-be9c-6bffc576c97b.jpg",
+      "AssetFile": "D:\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\74603d19-3e2d-4cb7-be9c-6bffc576c97b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "237523"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tVl86vFaL7QQJjcisi1G/KPSqJmTHxjlaisuOtCPDso=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:44:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tVl86vFaL7QQJjcisi1G/KPSqJmTHxjlaisuOtCPDso="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/e9e1bc87-1098-42a2-97bb-72d4953009e6.jpg",
+      "AssetFile": "D:\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\e9e1bc87-1098-42a2-97bb-72d4953009e6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "416409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xSUU8SKhEWLFXwuwpkMxF+lq7VTRvLHuQRN0AB4BVS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:49:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xSUU8SKhEWLFXwuwpkMxF+lq7VTRvLHuQRN0AB4BVS0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/e9e1bc87-1098-42a2-97bb-72d4953009e6.v7ys6y7t17.jpg",
+      "AssetFile": "D:\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\e9e1bc87-1098-42a2-97bb-72d4953009e6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "416409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xSUU8SKhEWLFXwuwpkMxF+lq7VTRvLHuQRN0AB4BVS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:49:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v7ys6y7t17"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/e9e1bc87-1098-42a2-97bb-72d4953009e6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xSUU8SKhEWLFXwuwpkMxF+lq7VTRvLHuQRN0AB4BVS0="
         }
       ]
     },

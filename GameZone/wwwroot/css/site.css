@@ -93,3 +93,8 @@ div:where(.swal2-container) div:where(.swal2-popup) {
     border-radius: 8px;
 }
 /* End Custom Styles */
+
+.home-logo {
+    height: 50px;
+    margin: 5px 0px;
+}

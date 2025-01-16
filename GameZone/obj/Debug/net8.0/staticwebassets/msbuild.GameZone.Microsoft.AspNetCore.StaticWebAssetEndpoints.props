@@ -1,5 +1,41 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/GameZone/assets/images/games/086cefe4-3515-46a8-b9f0-96b9b2863abd.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\games\086cefe4-3515-46a8-b9f0-96b9b2863abd.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sCKeL6SE0H1gqXf1HSeci0UGE4jjYQx2POFS5b9z0ck="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"364521"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022sCKeL6SE0H1gqXf1HSeci0UGE4jjYQx2POFS5b9z0ck=\u0022"},{"Name":"Last-Modified","Value":"Sat, 11 Jan 2025 06:51:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameZone/assets/images/games/086cefe4-3515-46a8-b9f0-96b9b2863abd.o607qzea51.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\games\086cefe4-3515-46a8-b9f0-96b9b2863abd.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o607qzea51"},{"Name":"integrity","Value":"sha256-sCKeL6SE0H1gqXf1HSeci0UGE4jjYQx2POFS5b9z0ck="},{"Name":"label","Value":"_content/GameZone/assets/images/games/086cefe4-3515-46a8-b9f0-96b9b2863abd.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"364521"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022sCKeL6SE0H1gqXf1HSeci0UGE4jjYQx2POFS5b9z0ck=\u0022"},{"Name":"Last-Modified","Value":"Sat, 11 Jan 2025 06:51:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameZone/assets/images/games/24146e8c-ace4-440d-9f4c-9b09456ca7bc.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\games\24146e8c-ace4-440d-9f4c-9b09456ca7bc.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sCKeL6SE0H1gqXf1HSeci0UGE4jjYQx2POFS5b9z0ck="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"364521"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022sCKeL6SE0H1gqXf1HSeci0UGE4jjYQx2POFS5b9z0ck=\u0022"},{"Name":"Last-Modified","Value":"Sat, 11 Jan 2025 06:51:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameZone/assets/images/games/24146e8c-ace4-440d-9f4c-9b09456ca7bc.o607qzea51.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\games\24146e8c-ace4-440d-9f4c-9b09456ca7bc.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o607qzea51"},{"Name":"integrity","Value":"sha256-sCKeL6SE0H1gqXf1HSeci0UGE4jjYQx2POFS5b9z0ck="},{"Name":"label","Value":"_content/GameZone/assets/images/games/24146e8c-ace4-440d-9f4c-9b09456ca7bc.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"364521"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022sCKeL6SE0H1gqXf1HSeci0UGE4jjYQx2POFS5b9z0ck=\u0022"},{"Name":"Last-Modified","Value":"Sat, 11 Jan 2025 06:51:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameZone/assets/images/games/4bd750ad-8e99-42e7-b25a-9c58e52b62f3.h9uh6f3py7.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\games\4bd750ad-8e99-42e7-b25a-9c58e52b62f3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"h9uh6f3py7"},{"Name":"integrity","Value":"sha256-dYW1Qrzj4m0bJXKSDEDVau\u002Bs675sKMj9t94jyfmXFB8="},{"Name":"label","Value":"_content/GameZone/assets/images/games/4bd750ad-8e99-42e7-b25a-9c58e52b62f3.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"196475"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022dYW1Qrzj4m0bJXKSDEDVau\u002Bs675sKMj9t94jyfmXFB8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 16 Jan 2025 08:19:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameZone/assets/images/games/4bd750ad-8e99-42e7-b25a-9c58e52b62f3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\games\4bd750ad-8e99-42e7-b25a-9c58e52b62f3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dYW1Qrzj4m0bJXKSDEDVau\u002Bs675sKMj9t94jyfmXFB8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"196475"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022dYW1Qrzj4m0bJXKSDEDVau\u002Bs675sKMj9t94jyfmXFB8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 16 Jan 2025 08:19:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameZone/assets/images/games/67a14222-7e80-4623-ae25-ea6c43ae73f6.hxg4ze3o4f.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\games\67a14222-7e80-4623-ae25-ea6c43ae73f6.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -35,6 +71,30 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wtpj3b73f9"},{"Name":"integrity","Value":"sha256-hChHHJr83qUVDWLshIZw29IjpNRhq26K92om4O7HYGE="},{"Name":"label","Value":"_content/GameZone/assets/images/games/72bb109b-bf21-46ec-b6e3-351382bf6344.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"370652"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022hChHHJr83qUVDWLshIZw29IjpNRhq26K92om4O7HYGE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 11 Jan 2025 06:16:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameZone/assets/images/games/74603d19-3e2d-4cb7-be9c-6bffc576c97b.hxg4ze3o4f.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\games\74603d19-3e2d-4cb7-be9c-6bffc576c97b.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hxg4ze3o4f"},{"Name":"integrity","Value":"sha256-tVl86vFaL7QQJjcisi1G/KPSqJmTHxjlaisuOtCPDso="},{"Name":"label","Value":"_content/GameZone/assets/images/games/74603d19-3e2d-4cb7-be9c-6bffc576c97b.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"237523"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022tVl86vFaL7QQJjcisi1G/KPSqJmTHxjlaisuOtCPDso=\u0022"},{"Name":"Last-Modified","Value":"Sat, 11 Jan 2025 06:44:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameZone/assets/images/games/74603d19-3e2d-4cb7-be9c-6bffc576c97b.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\games\74603d19-3e2d-4cb7-be9c-6bffc576c97b.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tVl86vFaL7QQJjcisi1G/KPSqJmTHxjlaisuOtCPDso="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"237523"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022tVl86vFaL7QQJjcisi1G/KPSqJmTHxjlaisuOtCPDso=\u0022"},{"Name":"Last-Modified","Value":"Sat, 11 Jan 2025 06:44:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameZone/assets/images/games/e9e1bc87-1098-42a2-97bb-72d4953009e6.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\games\e9e1bc87-1098-42a2-97bb-72d4953009e6.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xSUU8SKhEWLFXwuwpkMxF\u002Blq7VTRvLHuQRN0AB4BVS0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"416409"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xSUU8SKhEWLFXwuwpkMxF\u002Blq7VTRvLHuQRN0AB4BVS0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 11 Jan 2025 06:49:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameZone/assets/images/games/e9e1bc87-1098-42a2-97bb-72d4953009e6.v7ys6y7t17.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\games\e9e1bc87-1098-42a2-97bb-72d4953009e6.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v7ys6y7t17"},{"Name":"integrity","Value":"sha256-xSUU8SKhEWLFXwuwpkMxF\u002Blq7VTRvLHuQRN0AB4BVS0="},{"Name":"label","Value":"_content/GameZone/assets/images/games/e9e1bc87-1098-42a2-97bb-72d4953009e6.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"416409"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xSUU8SKhEWLFXwuwpkMxF\u002Blq7VTRvLHuQRN0AB4BVS0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 11 Jan 2025 06:49:19 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameZone/css/bootstrap.min.bnhu6z41j0.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap.min.css'))</AssetFile>
