@@ -1,25 +1,27 @@
-# GameZone
+<p align="center">
+  <img src="https://gamezone.cfl.ca/static/media/header-logo-D77vK1Oi.png" alt="GameZone Logo">
+</p>
 
-GameZone is a powerful and user-friendly ASP.NET Core MVC application that enhances user engagement by providing an intuitive platform for managing a collection of games. With robust features and efficient design, GameZone simplifies game data management and promotes an enjoyable user experience.
+GameZone is an ASP.NET Core MVC application that enhances user engagement by providing an intuitive platform for managing a collection of games. With robust features and efficient design, GameZone simplifies game data management and promotes an enjoyable user experience.
 
 ## Features
 
-- **Game Listings**: Display a comprehensive list of games, increasing user engagement by 30%.
-- **CRUD Operations**: Allow users to create, read, update, and delete game entries, reducing data management time by 40%.
+- **Game Listings**: Display a comprehensive list of games.
+- **CRUD Operations**: Allow users to create, read, update, and delete game entries.
 - **Seamless Database Integration**: Powered by Entity Framework Core, ensuring efficient and reliable data interactions with strong typing and LINQ queries.
 - **Dependency Injection**: Implemented throughout the application to ensure loose coupling, enhanced testability, and improved development efficiency, reducing test setup time by 25%.
 
 ## Technology Stack
 
 - **Backend Framework**: ASP.NET Core MVC
-- **Database**: Entity Framework Core
-- **Languages**: C#, HTML, CSS, JavaScript
+- **Database**: SQL and Entity Framework Core
+- **Languages**: C#, HTML, CSS, Bootstrap, JavaScript
 
 ## Setup Instructions
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/GameZone.git
+    git clone https://github.com/OmarElshankery/GameZone.git
     ```
 
 2. Navigate to the project directory:
@@ -43,29 +45,6 @@ GameZone is a powerful and user-friendly ASP.NET Core MVC application that enhan
     ```
 
 6. Access the application in your browser at `http://localhost:5000` (default port).
-
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix:
-    ```bash
-    git checkout -b feature-name
-    ```
-3. Commit your changes:
-    ```bash
-    git commit -m "Add a brief description of your changes"
-    ```
-4. Push the branch:
-    ```bash
-    git push origin feature-name
-    ```
-5. Open a pull request on GitHub.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
